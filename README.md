@@ -55,3 +55,8 @@
     Bu filtreler resimlerin üzerinde gezinerek köpeğin gözü burnu vb. yerlerini tespit eder.
     Ve son katmanlara doğruda köpek olarak sınıflandırılır.
 
+# Sınıf aktivasyon ısı haritası görselleştirme (CAM-Class Activation Map)
+
+* Sınıf aktivasyon haritası 2B grid şeklinde belirli bir çıktı sınıfına ait skorlardır.
+
+* Test resmimizin ısı haritası : 
