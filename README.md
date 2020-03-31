@@ -12,4 +12,6 @@
 
 * Şimdi katmanlarımızdaki kanallardan geçen resimlere göz atalım :
 
+![Screenshot_2020-03-31_22-39-25](https://user-images.githubusercontent.com/54184905/78069973-ac8ce600-73a3-11ea-9eac-c5a96f32d5b1.png)
 
+![Screenshot_2020-03-31_22-41-04](https://user-images.githubusercontent.com/54184905/78069975-ad257c80-73a3-11ea-8c78-15b828a1c440.png)
