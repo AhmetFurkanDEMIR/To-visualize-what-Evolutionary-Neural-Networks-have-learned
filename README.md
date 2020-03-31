@@ -38,3 +38,5 @@
 ![Screenshot_2020-03-31_22-42-15](https://user-images.githubusercontent.com/54184905/78070559-ae0ade00-73a4-11ea-80ed-ae0c4206ee10.png)
 
 ![Screenshot_2020-03-31_22-42-21](https://user-images.githubusercontent.com/54184905/78070560-aea37480-73a4-11ea-9339-1fbc7ef4738a.png)
+
+    Büyük resimde de gördüğünüz gibi modelimiz adım adım köpeği tanımakta.
