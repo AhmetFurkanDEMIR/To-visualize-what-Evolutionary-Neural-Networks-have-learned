@@ -1,7 +1,12 @@
 # To visualize what Evolutionary Neural Networks have learned.
 
 * Bu projemizde Evrişimli sinir ağlarının öğrendiklerini, filtreleri ve ısı haritasını görselleştireceğiz.
-* Test resmimizdeki canlıyı nasıl sınıflandırdığını adım adım inceleyeceğiz.  
+
+* Evrişimli sinir ağlarının katmanlarında ve filtrelerinde gezineceğiz.
+
+* Test resmimizdeki canlıyı nasıl sınıflandırdığını adım adım inceleyeceğiz. (object detection)
+
+* Test resmimizdeki canlıyı hangi noktalarına ağırlık vererek köpek olarak tanıdığını göreceğiz. 
 
 * Test Resmimiz : 
 
