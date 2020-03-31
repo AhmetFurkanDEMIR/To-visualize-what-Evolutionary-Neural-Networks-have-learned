@@ -22,3 +22,19 @@
     İkinci katmanda ise köpeğin burnu ve kuyruğu tanımlanmış yani modelimiz yavaştan canlının köpek olduğunu anlıyor.
     
 * Şimdi ise Tüm kanalların tüm aktivasyonlarını görselleştirme işlemini yapalım : 
+
+![Screenshot_2020-03-31_22-41-24](https://user-images.githubusercontent.com/54184905/78070495-8f0c4c00-73a4-11ea-8b2a-21581c06e456.png)
+
+![Screenshot_2020-03-31_22-41-35](https://user-images.githubusercontent.com/54184905/78070499-90d60f80-73a4-11ea-8dea-d5c339237d23.png)
+
+![Screenshot_2020-03-31_22-41-45](https://user-images.githubusercontent.com/54184905/78070501-929fd300-73a4-11ea-8bbb-a28b0185168f.png)
+
+![Screenshot_2020-03-31_22-41-54](https://user-images.githubusercontent.com/54184905/78070532-a0edef00-73a4-11ea-997e-8142076815f0.png)
+
+![Screenshot_2020-03-31_22-42-04](https://user-images.githubusercontent.com/54184905/78070535-a2b7b280-73a4-11ea-965e-886020bd91d7.png)
+
+![Screenshot_2020-03-31_22-42-10](https://user-images.githubusercontent.com/54184905/78070543-a51a0c80-73a4-11ea-9f17-7de4222e22ca.png)
+
+![Screenshot_2020-03-31_22-42-15](https://user-images.githubusercontent.com/54184905/78070559-ae0ade00-73a4-11ea-80ed-ae0c4206ee10.png)
+
+![Screenshot_2020-03-31_22-42-21](https://user-images.githubusercontent.com/54184905/78070560-aea37480-73a4-11ea-9339-1fbc7ef4738a.png)
