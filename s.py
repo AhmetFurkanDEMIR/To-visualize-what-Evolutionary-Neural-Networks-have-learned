@@ -59,7 +59,6 @@ plt.show()
 
 import keras
 
-# These are the names of the layers, so can have them as part of our plot
 layer_names = []
 for layer in model.layers[:8]:
     layer_names.append(layer.name)
@@ -286,7 +285,7 @@ heatmap = cv2.applyColorMap(heatmap, cv2.COLORMAP_JET)
 
 superimposed_img = heatmap * 0.4 + img
 
-# Save the image to disk
+# diske kaydetme
 
 cv2.imwrite("ga/asd.jpg", superimposed_img)
 
