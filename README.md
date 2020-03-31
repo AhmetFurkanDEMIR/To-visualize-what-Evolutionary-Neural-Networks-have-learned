@@ -66,3 +66,6 @@
 * Isı haritamıza resim üzerinde bakalım : 
 
 ![asd](https://user-images.githubusercontent.com/54184905/78071607-7c931200-73a6-11ea-90fd-8e669296dbde.jpg)
+
+    Resimde de gördüğünüz gibi ısı haritamız köpeğin kafa, bilek ve kuyruk kısmını işaret etmektedir.
+    Yani test resmimizin bu noktalarına bakarak köpek olarak sınıflandırdı. Köpeği diğer canlılardan böyle ayırdı.
