@@ -21,4 +21,4 @@
     
     İkinci katmanda ise köpeğin burnu ve kuyruğu tanımlanmış yani modelimiz yavaştan canlının köpek olduğunu anlıyor.
     
-* Şimdi ise 
+* Şimdi ise Tüm kanalların tüm aktivasyonlarını görselleştirme işlemini yapalım : 
