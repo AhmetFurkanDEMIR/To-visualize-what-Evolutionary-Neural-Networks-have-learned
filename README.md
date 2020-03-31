@@ -43,4 +43,15 @@
     
 * Artık resim üzerinde gezen filtreleri görselleştirme zamanı : 
 
+![Screenshot_2020-03-31_22-42-57](https://user-images.githubusercontent.com/54184905/78071091-8a946300-73a5-11ea-8c9c-e1b26fb99018.png)
+
+![Screenshot_2020-03-31_22-44-21](https://user-images.githubusercontent.com/54184905/78071095-8bc59000-73a5-11ea-9acd-4111f5ce64a7.png)
+
+![Screenshot_2020-03-31_22-44-46](https://user-images.githubusercontent.com/54184905/78071097-8cf6bd00-73a5-11ea-988d-c54d80783ed7.png)
+
+![Screenshot_2020-03-31_22-44-34](https://user-images.githubusercontent.com/54184905/78071105-8ff1ad80-73a5-11ea-9960-947d6cd7969d.png)
+
+    Bu gördüğünüz resimler rastgele katmanlardan çektiğim filtreler.
+    Bu filtreler resimlerin üzerinde gezinerek köpeğin gözü burnu vb. yerlerini tespit eder.
+    Ve son katmanlara doğruda köpek olarak sınıflandırılır.
 
