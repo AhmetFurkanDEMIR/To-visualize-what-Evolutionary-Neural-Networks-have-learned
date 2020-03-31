@@ -171,7 +171,6 @@ def generate_pattern(layer_name, filter_index, size=150):
     # normalizasyon hilesi
     grads /= (K.sqrt(K.mean(K.square(grads))) + 1e-5)
 
-    # This function returns the loss and grads given the input picture
     iterate = K.function([model.input], [loss, grads])
     
    
@@ -232,7 +231,7 @@ x = np.expand_dims(x, axis=0)
 x = preprocess_input(x)
 
 
-preds = model.predict(x) # model resimdeki köpeğin türünü Labrador_retriever olarak buldu
+preds = model.predict(x)
 print('Predicted:', decode_predictions(preds, top=3)[0])
 
 # --- Grad-CAM algoritması --- #
